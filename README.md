@@ -1,2 +1,3 @@
 # ScientificCalculator
-calculator for daily uses
+scientific calculator for daily uses
+
